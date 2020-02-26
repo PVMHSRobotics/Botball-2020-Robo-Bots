@@ -1,6 +1,5 @@
 #include <kipr/wombat.h>
 
 int main(){
-  printf ("Why are we still here"\n);
-  sleep(100);
+
 }
