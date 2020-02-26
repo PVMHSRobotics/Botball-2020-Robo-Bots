@@ -1,1 +1,3 @@
-int start();
+int main(){
+  printf ("Why are we still here"\n);
+}
